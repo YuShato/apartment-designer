@@ -3,9 +3,9 @@ import DinnerTable from './dinner-table'
 
 function DinnerTableWrap () {
   return (
-    <div class='objects__item object'>
+    <div className='objects__item object'>
       <DinnerTable />
-      <div class='object__name'>Обеденный стол</div>
+      <div className='object__name'>Обеденный стол</div>
     </div>
   )
 }
