@@ -79,30 +79,13 @@ function LeftBlock () {
           <div className='plan__cell cell-2-6' data-x='2' data-y='6'></div>
           <div className='plan__cell cell-3-6' data-x='3' data-y='6'></div>
           <div className='plan__cell cell-4-6' data-x='4' data-y='6'></div>
-          <div
-            className='plan__cell cell-5-6 plan__cell_error'
-            data-x='5'
-            data-y='6'
-          ></div>
-          <div
-            className='plan__cell cell-6-6 plan__cell_error'
-            data-x='6'
-            data-y='6'
-          ></div>
+          <div className='plan__cell cell-5-6' data-x='5' data-y='6'></div>
+          <div className='plan__cell cell-6-6' data-x='6' data-y='6'></div>
           <div className='plan__cell cell-7-6' data-x='7' data-y='6'></div>
           <div className='plan__cell cell-8-6' data-x='8' data-y='6'></div>
-          <div
-            className='plan__cell plan__cell_success cell-9-6'
-            data-x='9'
-            data-y='6'
-          ></div>
-          <div
-            className='plan__cell plan__cell_success cell-10-6'
-            data-x='10'
-            data-y='6'
-          ></div>
+          <div className='plan__cell cell-9-6' data-x='9' data-y='6'></div>
+          <div className='plan__cell cell-10-6' data-x='10' data-y='6'></div>
         </div>
-
         <div
           className='objects__item object'
           data-index='0'
