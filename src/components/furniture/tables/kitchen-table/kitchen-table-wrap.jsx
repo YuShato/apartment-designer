@@ -3,9 +3,9 @@ import KitchenTable from './kitchen-table';
 
 function KitchenTableWrap () {
   return (
-    <div class='objects__item object'>
+    <div className='objects__item object'>
       <KitchenTable/>
-      <div class='object__name'>Кухонный стол</div>
+      <div className='object__name'>Кухонный стол</div>
     </div>
   )
 }
